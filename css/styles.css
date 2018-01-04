@@ -1,0 +1,18 @@
+.jumbotron.fancy {
+  margin: auto;
+  padding: 12px;
+  text-align: center;
+  text-shadow: 3px 3px #ff22f2;
+  font-family: cursive;
+  color: #ffc119;
+  font-size: 5em;
+}
+
+.fancy {
+  text-align: center;
+  text-shadow: 3px 3px #ff22f2;
+  font-family: cursive;
+  color: #ccc222;
+  font-size: 3em;
+  line-height: .5em;
+}
