@@ -24,3 +24,15 @@
 .text-muted {
   color: #fc0000;
 }
+
+.bg-gold {
+  background-color: #c1950f;
+}
+
+.bg-silver {
+  background-color: #a0a09f;
+}
+
+.bg-bronze {
+  background-color: #CD7F32;
+}
