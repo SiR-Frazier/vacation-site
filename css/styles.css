@@ -14,3 +14,9 @@
   color: #ffc119;
   font-size: 5em;
 }
+
+.quote {
+  margin: auto;
+  padding-left: 24px;
+  background-color: #f49542;
+}
